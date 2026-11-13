@@ -1,6 +1,7 @@
 # QuickPlay — Identidade visual (v1)
 
-**Assinatura:** QuickPlay · Revenda autorizada Quick Player
+**Assinatura (no logo):** QuickPlay · Reprodutor de mídia para televisão
+**Informação obrigatória em bio, página e WhatsApp:** Revenda autorizada do aplicativo Quick Player.
 **Slogan:** Sua mídia, organizada.
 
 ## Cores
@@ -27,6 +28,6 @@
 ## Regras
 - Fundo escuro como padrão.
 - Gradiente em apenas um elemento por peça.
-- Usar o descritor "Revenda autorizada Quick Player" em perfil, página e anúncios.
+- Usar o descritor "Reprodutor de mídia para televisão" junto ao logo; informar "Revenda autorizada do aplicativo Quick Player" na bio, página e atendimento.
 - Área de respiro mínima ao redor do logo = altura da letra "Q".
 - Não distorcer, não aplicar sombra/brilho, não trocar cores.
